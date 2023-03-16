@@ -1,0 +1,101 @@
+.bg{
+    background-image: url("chinatown.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#home{
+text-align: center;
+color: white;
+text-shadow: 2px 2px 4px #000000;
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
+
+.jk{
+    background-image: url("pastel2.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no repeat;
+    background-size: cover;
+}
+#About me{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    }
+
+.card {
+     /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    }
+
+    /* On mouse-over, add a deeper shadow */
+    .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+    /* Add some padding inside the card container */
+    .container {
+    padding: 2px 16px;
+    }
+
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+        border-radius: 5px; /* 5px rounded corners */
+      }
+
+      /* Add rounded corners to the top left and the top right corner of the image */
+      img {
+        border-radius: 5px 5px 0 0;
+      }
+
+.mb{
+    background-image: url("pastel bg.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no repeat;
+    background-size: cover;
+    }
+    html{
+        box-sizing: border-box;
+        font-family: sans -serif;
+    }
+#My Essay{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    }
+
+    .jz{
+        background-image: url("pastel bg.jpg");
+        height: 100vh;
+        background-position: center;
+        background-repeat: no repeat;
+        background-size: cover;
+        }
+    #Location{
+        text-align: center;
+        color: white;
+        text-shadow: 2px 2px 4px #000000;
+        }
+.center{
+  text-align:center; 
+}
